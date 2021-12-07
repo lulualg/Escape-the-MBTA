@@ -10,7 +10,7 @@ We hope you have as much fun playing as we did designing the game!
 
 #### [SPOILER ALERT: Obvious clues included in this tutorial, read at your own risk!]
 
-<img src="https://cdn.glitch.me/0d912267-7ceb-4ef0-87ba-924a786d3765%2F9d4c98e5-3b3c-41b9-b3f0-ab3f9173b4cb.image.png?v=1638847402098">
+![map](https://user-images.githubusercontent.com/94556962/144964473-0bebc05e-cee4-4eae-bb5b-e5df286e9195.png)"
 
 This game consists of 21 rooms, which can be navigated through cardinal directions (NORTH, EAST, WEST, SOUTH).
 As you progress throughout the game, you will find interactive objects that you may use to your benefit.
